@@ -1,0 +1,25 @@
+Tables
+-Product
+-Customer
+-Orderline
+-Orders
+-Repair
+
+Product table
+-Id
+-Product Name
+-Price
+-Amount Available
+-Rarity
+
+Customer table
+-Customer number
+-service number
+-email address
+-phone number
+
+Orderline table
+-order number
+-customer number
+-order fullfilled
+
